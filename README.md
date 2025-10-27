@@ -1,6 +1,6 @@
 # Projet 10 : Cadrage et Pilotage de Projet IA (AI Product Manager)
 
-### 🎯 Objectif & Résultat Principal
+### Objectif & Résultat Principal
 
 Prise en charge du cadrage complet d'une application mobile IA ("Fashion-Insta") de recommandation de style par analyse de photo.
 
